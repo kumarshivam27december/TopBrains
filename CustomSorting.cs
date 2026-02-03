@@ -38,8 +38,6 @@ public class Student
         Marks = marks;
     }
 }
-
-
 class StudentComparer : IComparer<Student>
 {
     public int Compare(Student x, Student y)
