@@ -1,0 +1,15 @@
+C:\Users\91995\Desktop\.Desk\TopBrains\Week8\BookStoreApplication\bin\Debug\net8.0\BookStoreApplication.exe
+C:\Users\91995\Desktop\.Desk\TopBrains\Week8\BookStoreApplication\bin\Debug\net8.0\BookStoreApplication.deps.json
+C:\Users\91995\Desktop\.Desk\TopBrains\Week8\BookStoreApplication\bin\Debug\net8.0\BookStoreApplication.runtimeconfig.json
+C:\Users\91995\Desktop\.Desk\TopBrains\Week8\BookStoreApplication\bin\Debug\net8.0\BookStoreApplication.dll
+C:\Users\91995\Desktop\.Desk\TopBrains\Week8\BookStoreApplication\bin\Debug\net8.0\BookStoreApplication.pdb
+C:\Users\91995\Desktop\.Desk\TopBrains\Week8\BookStoreApplication\obj\Debug\net8.0\BookStoreApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91995\Desktop\.Desk\TopBrains\Week8\BookStoreApplication\obj\Debug\net8.0\BookStoreApplication.AssemblyInfoInputs.cache
+C:\Users\91995\Desktop\.Desk\TopBrains\Week8\BookStoreApplication\obj\Debug\net8.0\BookStoreApplication.AssemblyInfo.cs
+C:\Users\91995\Desktop\.Desk\TopBrains\Week8\BookStoreApplication\obj\Debug\net8.0\BookStoreApplication.csproj.CoreCompileInputs.cache
+C:\Users\91995\Desktop\.Desk\TopBrains\Week8\BookStoreApplication\obj\Debug\net8.0\BookStoreApplication.sourcelink.json
+C:\Users\91995\Desktop\.Desk\TopBrains\Week8\BookStoreApplication\obj\Debug\net8.0\BookStoreApplication.dll
+C:\Users\91995\Desktop\.Desk\TopBrains\Week8\BookStoreApplication\obj\Debug\net8.0\refint\BookStoreApplication.dll
+C:\Users\91995\Desktop\.Desk\TopBrains\Week8\BookStoreApplication\obj\Debug\net8.0\BookStoreApplication.pdb
+C:\Users\91995\Desktop\.Desk\TopBrains\Week8\BookStoreApplication\obj\Debug\net8.0\BookStoreApplication.genruntimeconfig.cache
+C:\Users\91995\Desktop\.Desk\TopBrains\Week8\BookStoreApplication\obj\Debug\net8.0\ref\BookStoreApplication.dll
