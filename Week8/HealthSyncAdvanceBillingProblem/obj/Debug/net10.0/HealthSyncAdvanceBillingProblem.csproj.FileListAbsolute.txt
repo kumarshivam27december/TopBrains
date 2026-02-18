@@ -1,0 +1,15 @@
+C:\Users\91995\Desktop\net\HealthSyncAdvanceBillingProblem\bin\Debug\net10.0\HealthSyncAdvanceBillingProblem.exe
+C:\Users\91995\Desktop\net\HealthSyncAdvanceBillingProblem\bin\Debug\net10.0\HealthSyncAdvanceBillingProblem.deps.json
+C:\Users\91995\Desktop\net\HealthSyncAdvanceBillingProblem\bin\Debug\net10.0\HealthSyncAdvanceBillingProblem.runtimeconfig.json
+C:\Users\91995\Desktop\net\HealthSyncAdvanceBillingProblem\bin\Debug\net10.0\HealthSyncAdvanceBillingProblem.dll
+C:\Users\91995\Desktop\net\HealthSyncAdvanceBillingProblem\bin\Debug\net10.0\HealthSyncAdvanceBillingProblem.pdb
+C:\Users\91995\Desktop\net\HealthSyncAdvanceBillingProblem\obj\Debug\net10.0\HealthSyncAdvanceBillingProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91995\Desktop\net\HealthSyncAdvanceBillingProblem\obj\Debug\net10.0\HealthSyncAdvanceBillingProblem.AssemblyInfoInputs.cache
+C:\Users\91995\Desktop\net\HealthSyncAdvanceBillingProblem\obj\Debug\net10.0\HealthSyncAdvanceBillingProblem.AssemblyInfo.cs
+C:\Users\91995\Desktop\net\HealthSyncAdvanceBillingProblem\obj\Debug\net10.0\HealthSyncAdvanceBillingProblem.csproj.CoreCompileInputs.cache
+C:\Users\91995\Desktop\net\HealthSyncAdvanceBillingProblem\obj\Debug\net10.0\HealthSyncAdvanceBillingProblem.sourcelink.json
+C:\Users\91995\Desktop\net\HealthSyncAdvanceBillingProblem\obj\Debug\net10.0\HealthSyncAdvanceBillingProblem.dll
+C:\Users\91995\Desktop\net\HealthSyncAdvanceBillingProblem\obj\Debug\net10.0\refint\HealthSyncAdvanceBillingProblem.dll
+C:\Users\91995\Desktop\net\HealthSyncAdvanceBillingProblem\obj\Debug\net10.0\HealthSyncAdvanceBillingProblem.pdb
+C:\Users\91995\Desktop\net\HealthSyncAdvanceBillingProblem\obj\Debug\net10.0\HealthSyncAdvanceBillingProblem.genruntimeconfig.cache
+C:\Users\91995\Desktop\net\HealthSyncAdvanceBillingProblem\obj\Debug\net10.0\ref\HealthSyncAdvanceBillingProblem.dll
