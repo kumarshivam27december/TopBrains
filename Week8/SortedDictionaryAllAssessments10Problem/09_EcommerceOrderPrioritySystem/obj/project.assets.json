@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dotnet\\SortedDictionaryAllAssessments10Problem\\09_EcommerceOrderPrioritySystem\\09_EcommerceOrderPrioritySystem.csproj",
+      "projectUniqueName": "C:\\Users\\91995\\Desktop\\Desk\\TopBrains\\Week8\\SortedDictionaryAllAssessments10Problem\\09_EcommerceOrderPrioritySystem\\09_EcommerceOrderPrioritySystem.csproj",
       "projectName": "09_EcommerceOrderPrioritySystem",
-      "projectPath": "C:\\dotnet\\SortedDictionaryAllAssessments10Problem\\09_EcommerceOrderPrioritySystem\\09_EcommerceOrderPrioritySystem.csproj",
+      "projectPath": "C:\\Users\\91995\\Desktop\\Desk\\TopBrains\\Week8\\SortedDictionaryAllAssessments10Problem\\09_EcommerceOrderPrioritySystem\\09_EcommerceOrderPrioritySystem.csproj",
       "packagesPath": "C:\\Users\\91995\\.nuget\\packages\\",
-      "outputPath": "C:\\dotnet\\SortedDictionaryAllAssessments10Problem\\09_EcommerceOrderPrioritySystem\\obj\\",
+      "outputPath": "C:\\Users\\91995\\Desktop\\Desk\\TopBrains\\Week8\\SortedDictionaryAllAssessments10Problem\\09_EcommerceOrderPrioritySystem\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

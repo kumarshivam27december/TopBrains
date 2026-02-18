@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dotnet\\SortedDictionaryAllAssessments10Problem\\01_PharmacyMedicineSystem\\01_PharmacyMedicineSystem.csproj",
+      "projectUniqueName": "C:\\Users\\91995\\Desktop\\Desk\\TopBrains\\Week8\\SortedDictionaryAllAssessments10Problem\\01_PharmacyMedicineSystem\\01_PharmacyMedicineSystem.csproj",
       "projectName": "01_PharmacyMedicineSystem",
-      "projectPath": "C:\\dotnet\\SortedDictionaryAllAssessments10Problem\\01_PharmacyMedicineSystem\\01_PharmacyMedicineSystem.csproj",
+      "projectPath": "C:\\Users\\91995\\Desktop\\Desk\\TopBrains\\Week8\\SortedDictionaryAllAssessments10Problem\\01_PharmacyMedicineSystem\\01_PharmacyMedicineSystem.csproj",
       "packagesPath": "C:\\Users\\91995\\.nuget\\packages\\",
-      "outputPath": "C:\\dotnet\\SortedDictionaryAllAssessments10Problem\\01_PharmacyMedicineSystem\\obj\\",
+      "outputPath": "C:\\Users\\91995\\Desktop\\Desk\\TopBrains\\Week8\\SortedDictionaryAllAssessments10Problem\\01_PharmacyMedicineSystem\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

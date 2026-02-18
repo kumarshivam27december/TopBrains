@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dotnet\\SortedDictionaryAllAssessments10Problem\\05_FlightFareManagementSystem\\05_FlightFareManagementSystem.csproj": {}
+    "C:\\Users\\91995\\Desktop\\Desk\\TopBrains\\Week8\\SortedDictionaryAllAssessments10Problem\\05_FlightFareManagementSystem\\05_FlightFareManagementSystem.csproj": {}
   },
   "projects": {
-    "C:\\dotnet\\SortedDictionaryAllAssessments10Problem\\05_FlightFareManagementSystem\\05_FlightFareManagementSystem.csproj": {
+    "C:\\Users\\91995\\Desktop\\Desk\\TopBrains\\Week8\\SortedDictionaryAllAssessments10Problem\\05_FlightFareManagementSystem\\05_FlightFareManagementSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dotnet\\SortedDictionaryAllAssessments10Problem\\05_FlightFareManagementSystem\\05_FlightFareManagementSystem.csproj",
+        "projectUniqueName": "C:\\Users\\91995\\Desktop\\Desk\\TopBrains\\Week8\\SortedDictionaryAllAssessments10Problem\\05_FlightFareManagementSystem\\05_FlightFareManagementSystem.csproj",
         "projectName": "05_FlightFareManagementSystem",
-        "projectPath": "C:\\dotnet\\SortedDictionaryAllAssessments10Problem\\05_FlightFareManagementSystem\\05_FlightFareManagementSystem.csproj",
+        "projectPath": "C:\\Users\\91995\\Desktop\\Desk\\TopBrains\\Week8\\SortedDictionaryAllAssessments10Problem\\05_FlightFareManagementSystem\\05_FlightFareManagementSystem.csproj",
         "packagesPath": "C:\\Users\\91995\\.nuget\\packages\\",
-        "outputPath": "C:\\dotnet\\SortedDictionaryAllAssessments10Problem\\05_FlightFareManagementSystem\\obj\\",
+        "outputPath": "C:\\Users\\91995\\Desktop\\Desk\\TopBrains\\Week8\\SortedDictionaryAllAssessments10Problem\\05_FlightFareManagementSystem\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

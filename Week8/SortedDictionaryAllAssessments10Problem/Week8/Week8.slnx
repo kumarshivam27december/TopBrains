@@ -1,0 +1,12 @@
+<Solution>
+  <Project Path="../01_PharmacyMedicineSystem/01_PharmacyMedicineSystem.csproj" />
+  <Project Path="../02_StudentGPARankingSystem/02_StudentGPARankingSystem.csproj" />
+  <Project Path="../03_BankAccountMonitoringSystem/03_BankAccountMonitoringSystem.csproj" />
+  <Project Path="../04_LibraryFineManagementSystem/04_LibraryFineManagementSystem.csproj" />
+  <Project Path="../05_FlightFareManagementSystem/05_FlightFareManagementSystem.csproj" />
+  <Project Path="../06_ITSupportTicketSystem/06_ITSupportTicketSystem.csproj" />
+  <Project Path="../07_InvestmentRiskSystem/07_InvestmentRiskSystem.csproj" />
+  <Project Path="../08_TrafficViolationSystem/08_TrafficViolationSystem.csproj" />
+  <Project Path="../09_EcommerceOrderPrioritySystem/09_EcommerceOrderPrioritySystem.csproj" />
+  <Project Path="../10_HospitalEmergencySystem/10_HospitalEmergencySystem.csproj" />
+</Solution>

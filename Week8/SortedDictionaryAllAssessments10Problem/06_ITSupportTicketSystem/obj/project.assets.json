@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dotnet\\SortedDictionaryAllAssessments10Problem\\06_ITSupportTicketSystem\\06_ITSupportTicketSystem.csproj",
+      "projectUniqueName": "C:\\Users\\91995\\Desktop\\Desk\\TopBrains\\Week8\\SortedDictionaryAllAssessments10Problem\\06_ITSupportTicketSystem\\06_ITSupportTicketSystem.csproj",
       "projectName": "06_ITSupportTicketSystem",
-      "projectPath": "C:\\dotnet\\SortedDictionaryAllAssessments10Problem\\06_ITSupportTicketSystem\\06_ITSupportTicketSystem.csproj",
+      "projectPath": "C:\\Users\\91995\\Desktop\\Desk\\TopBrains\\Week8\\SortedDictionaryAllAssessments10Problem\\06_ITSupportTicketSystem\\06_ITSupportTicketSystem.csproj",
       "packagesPath": "C:\\Users\\91995\\.nuget\\packages\\",
-      "outputPath": "C:\\dotnet\\SortedDictionaryAllAssessments10Problem\\06_ITSupportTicketSystem\\obj\\",
+      "outputPath": "C:\\Users\\91995\\Desktop\\Desk\\TopBrains\\Week8\\SortedDictionaryAllAssessments10Problem\\06_ITSupportTicketSystem\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
