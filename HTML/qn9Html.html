@@ -1,0 +1,75 @@
+<html>
+
+<head>
+
+</head>
+
+<body>
+    <p>Hello World</p>
+    <h2>STUDENT FORM</h2>
+    <form>
+        <table border="1">
+            <tr>
+                <td>
+                    <lable for="name">NAME:</lable>
+                </td>
+                <td>
+                    <input type="text" id="name" name="name" />
+                </td>
+            </tr>
+            <tr>
+                <td><label for="email">EMail:</td>
+                <td>
+                    <input type="text" id="email" name="email" />
+                </td>
+
+            </tr>
+            <tr>
+                <td>
+                    <lable for="mobile">Mobile No.:
+                </td>
+                <td><input type="text" id="mobile" name="Phone number" placeholder="enter number" /></td>
+            </tr>
+
+
+			
+            <tr>
+                <td>
+                    <lable for="City">City
+                </td>
+
+		<td>
+		<select id="city" name="city">
+			<option value="delhi">Delhi </option>
+			<option value="mumbai">Mumbai </option>
+			<option value="pune">Pune </option>
+		</select>
+		</td>
+            </tr>
+
+            <tr>
+                <td colspan="2" align="center">
+                    <button onclick="validate()">submit</button>
+                </td>
+            </tr>
+
+	
+
+        </table><br>
+
+    </form>
+
+</body>
+<script>
+    function validate() {
+        let number = document.getElementById("mobile").value;
+        var pattern = /^[1-9][0-9]{9}$/;
+        if (pattern.test(number)) {
+            alert("valid");
+        } else {
+            alert("not valid");
+        }
+    }
+</script>
+
+</html>
