@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "C:\\Users\\91995\\Desktop\\Desk\\TopBrains\\Week8\\SortedDictionaryAllAssessments10Problem\\Week8\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{79D088DC-9D3C-5B95-CB92-C31748D70BBA}|..\\06_ITSupportTicketSystem\\06_ITSupportTicketSystem.csproj|c:\\users\\91995\\desktop\\desk\\topbrains\\week8\\sorteddictionaryallassessments10problem\\06_itsupportticketsystem\\services\\supportticketutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{214A9E53-B0EF-1E1B-F67C-1C58D4005932}|..\\01_PharmacyMedicineSystem\\01_PharmacyMedicineSystem.csproj|c:\\users\\91995\\desktop\\desk\\topbrains\\week8\\sorteddictionaryallassessments10problem\\01_pharmacymedicinesystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,6 +21,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "SupportTicketUtility.cs",
+              "DocumentMoniker": "C:\\Users\\91995\\Desktop\\Desk\\TopBrains\\Week8\\SortedDictionaryAllAssessments10Problem\\06_ITSupportTicketSystem\\Services\\SupportTicketUtility.cs",
+              "RelativeDocumentMoniker": "..\\06_ITSupportTicketSystem\\Services\\SupportTicketUtility.cs",
+              "ToolTip": "C:\\Users\\91995\\Desktop\\Desk\\TopBrains\\Week8\\SortedDictionaryAllAssessments10Problem\\06_ITSupportTicketSystem\\Services\\SupportTicketUtility.cs",
+              "RelativeToolTip": "..\\06_ITSupportTicketSystem\\Services\\SupportTicketUtility.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T07:51:26.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\91995\\Desktop\\Desk\\TopBrains\\Week8\\SortedDictionaryAllAssessments10Problem\\01_PharmacyMedicineSystem\\Program.cs",
               "RelativeDocumentMoniker": "..\\01_PharmacyMedicineSystem\\Program.cs",

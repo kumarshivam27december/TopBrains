@@ -1,0 +1,15 @@
+C:\Users\91995\Desktop\desk\TopBrains\Week8\formatterandNullableQuestions\obj\Debug\net10.0\formatterandNullableQuestions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91995\Desktop\desk\TopBrains\Week8\formatterandNullableQuestions\obj\Debug\net10.0\formatterandNullableQuestions.AssemblyInfoInputs.cache
+C:\Users\91995\Desktop\desk\TopBrains\Week8\formatterandNullableQuestions\obj\Debug\net10.0\formatterandNullableQuestions.AssemblyInfo.cs
+C:\Users\91995\Desktop\desk\TopBrains\Week8\formatterandNullableQuestions\obj\Debug\net10.0\formatterandNullableQuestions.csproj.CoreCompileInputs.cache
+C:\Users\91995\Desktop\desk\TopBrains\Week8\formatterandNullableQuestions\obj\Debug\net10.0\formatterandNullableQuestions.sourcelink.json
+C:\Users\91995\Desktop\desk\TopBrains\Week8\formatterandNullableQuestions\bin\Debug\net10.0\formatterandNullableQuestions.exe
+C:\Users\91995\Desktop\desk\TopBrains\Week8\formatterandNullableQuestions\bin\Debug\net10.0\formatterandNullableQuestions.deps.json
+C:\Users\91995\Desktop\desk\TopBrains\Week8\formatterandNullableQuestions\bin\Debug\net10.0\formatterandNullableQuestions.runtimeconfig.json
+C:\Users\91995\Desktop\desk\TopBrains\Week8\formatterandNullableQuestions\bin\Debug\net10.0\formatterandNullableQuestions.dll
+C:\Users\91995\Desktop\desk\TopBrains\Week8\formatterandNullableQuestions\bin\Debug\net10.0\formatterandNullableQuestions.pdb
+C:\Users\91995\Desktop\desk\TopBrains\Week8\formatterandNullableQuestions\obj\Debug\net10.0\formatterandNullableQuestions.dll
+C:\Users\91995\Desktop\desk\TopBrains\Week8\formatterandNullableQuestions\obj\Debug\net10.0\refint\formatterandNullableQuestions.dll
+C:\Users\91995\Desktop\desk\TopBrains\Week8\formatterandNullableQuestions\obj\Debug\net10.0\formatterandNullableQuestions.pdb
+C:\Users\91995\Desktop\desk\TopBrains\Week8\formatterandNullableQuestions\obj\Debug\net10.0\formatterandNullableQuestions.genruntimeconfig.cache
+C:\Users\91995\Desktop\desk\TopBrains\Week8\formatterandNullableQuestions\obj\Debug\net10.0\ref\formatterandNullableQuestions.dll
