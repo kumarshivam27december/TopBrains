@@ -1,0 +1,207 @@
+D:\Capgemini Training\Web\MVCDEMO\Week8Assignment\bin\Debug\net10.0\appsettings.Development.json
+D:\Capgemini Training\Web\MVCDEMO\Week8Assignment\bin\Debug\net10.0\appsettings.json
+D:\Capgemini Training\Web\MVCDEMO\Week8Assignment\bin\Debug\net10.0\Week8Assignment.staticwebassets.runtime.json
+D:\Capgemini Training\Web\MVCDEMO\Week8Assignment\bin\Debug\net10.0\Week8Assignment.staticwebassets.endpoints.json
+D:\Capgemini Training\Web\MVCDEMO\Week8Assignment\bin\Debug\net10.0\Week8Assignment.exe
+D:\Capgemini Training\Web\MVCDEMO\Week8Assignment\bin\Debug\net10.0\Week8Assignment.deps.json
+D:\Capgemini Training\Web\MVCDEMO\Week8Assignment\bin\Debug\net10.0\Week8Assignment.runtimeconfig.json
+D:\Capgemini Training\Web\MVCDEMO\Week8Assignment\bin\Debug\net10.0\Week8Assignment.dll
+D:\Capgemini Training\Web\MVCDEMO\Week8Assignment\bin\Debug\net10.0\Week8Assignment.pdb
+D:\Capgemini Training\Web\MVCDEMO\Week8Assignment\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+D:\Capgemini Training\Web\MVCDEMO\Week8Assignment\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Capgemini Training\Web\MVCDEMO\Week8Assignment\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\Capgemini Training\Web\MVCDEMO\Week8Assignment\obj\Debug\net10.0\Week8Assignment.csproj.AssemblyReference.cache
+D:\Capgemini Training\Web\MVCDEMO\Week8Assignment\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\Capgemini Training\Web\MVCDEMO\Week8Assignment\obj\Debug\net10.0\Week8Assignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini Training\Web\MVCDEMO\Week8Assignment\obj\Debug\net10.0\Week8Assignment.AssemblyInfoInputs.cache
+D:\Capgemini Training\Web\MVCDEMO\Week8Assignment\obj\Debug\net10.0\Week8Assignment.AssemblyInfo.cs
+D:\Capgemini Training\Web\MVCDEMO\Week8Assignment\obj\Debug\net10.0\Week8Assignment.csproj.CoreCompileInputs.cache
+D:\Capgemini Training\Web\MVCDEMO\Week8Assignment\obj\Debug\net10.0\Week8Assignment.MvcApplicationPartsAssemblyInfo.cache
+D:\Capgemini Training\Web\MVCDEMO\Week8Assignment\obj\Debug\net10.0\Week8Assignment.RazorAssemblyInfo.cache
+D:\Capgemini Training\Web\MVCDEMO\Week8Assignment\obj\Debug\net10.0\Week8Assignment.RazorAssemblyInfo.cs
+D:\Capgemini Training\Web\MVCDEMO\Week8Assignment\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\Capgemini Training\Web\MVCDEMO\Week8Assignment\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\Capgemini Training\Web\MVCDEMO\Week8Assignment\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\Capgemini Training\Web\MVCDEMO\Week8Assignment\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Capgemini Training\Web\MVCDEMO\Week8Assignment\obj\Debug\net10.0\scopedcss\bundle\Week8Assignment.styles.css
+D:\Capgemini Training\Web\MVCDEMO\Week8Assignment\obj\Debug\net10.0\scopedcss\projectbundle\Week8Assignment.bundle.scp.css
+D:\Capgemini Training\Web\MVCDEMO\Week8Assignment\obj\Debug\net10.0\compressed\me9nbnifp5-{0}-b9sayid5wm-b9sayid5wm.gz
+D:\Capgemini Training\Web\MVCDEMO\Week8Assignment\obj\Debug\net10.0\compressed\exlh6xsyk6-{0}-61n19gt1b8-61n19gt1b8.gz
+D:\Capgemini Training\Web\MVCDEMO\Week8Assignment\obj\Debug\net10.0\compressed\wrx6mpjzzs-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+D:\Capgemini Training\Web\MVCDEMO\Week8Assignment\obj\Debug\net10.0\compressed\hx781deyme-{0}-bqjiyaj88i-bqjiyaj88i.gz
+D:\Capgemini Training\Web\MVCDEMO\Week8Assignment\obj\Debug\net10.0\compressed\tuqhkw1s83-{0}-c2jlpeoesf-c2jlpeoesf.gz
+D:\Capgemini Training\Web\MVCDEMO\Week8Assignment\obj\Debug\net10.0\compressed\4qzvkd340u-{0}-erw9l3u2r3-erw9l3u2r3.gz
+D:\Capgemini Training\Web\MVCDEMO\Week8Assignment\obj\Debug\net10.0\compressed\a31khbdi93-{0}-aexeepp0ev-aexeepp0ev.gz
+D:\Capgemini Training\Web\MVCDEMO\Week8Assignment\obj\Debug\net10.0\compressed\h5y8kplmrz-{0}-d7shbmvgxk-d7shbmvgxk.gz
+D:\Capgemini Training\Web\MVCDEMO\Week8Assignment\obj\Debug\net10.0\compressed\rtffac3d1e-{0}-ausgxo2sd3-ausgxo2sd3.gz
+D:\Capgemini Training\Web\MVCDEMO\Week8Assignment\obj\Debug\net10.0\compressed\zz9g4gw2iy-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+D:\Capgemini Training\Web\MVCDEMO\Week8Assignment\obj\Debug\net10.0\compressed\jg1qx0tuy1-{0}-cosvhxvwiu-cosvhxvwiu.gz
+D:\Capgemini Training\Web\MVCDEMO\Week8Assignment\obj\Debug\net10.0\compressed\9zwgkzsjzk-{0}-ub07r2b239-ub07r2b239.gz
+D:\Capgemini Training\Web\MVCDEMO\Week8Assignment\obj\Debug\net10.0\compressed\icsipkdvk4-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+D:\Capgemini Training\Web\MVCDEMO\Week8Assignment\obj\Debug\net10.0\compressed\pcbdyi5pp1-{0}-b7pk76d08c-b7pk76d08c.gz
+D:\Capgemini Training\Web\MVCDEMO\Week8Assignment\obj\Debug\net10.0\compressed\awex4u1xuj-{0}-fsbi9cje9m-fsbi9cje9m.gz
+D:\Capgemini Training\Web\MVCDEMO\Week8Assignment\obj\Debug\net10.0\compressed\q9y07n53fu-{0}-rzd6atqjts-rzd6atqjts.gz
+D:\Capgemini Training\Web\MVCDEMO\Week8Assignment\obj\Debug\net10.0\compressed\04xlsad2hu-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+D:\Capgemini Training\Web\MVCDEMO\Week8Assignment\obj\Debug\net10.0\compressed\yl5lwznw6k-{0}-dxx9fxp4il-dxx9fxp4il.gz
+D:\Capgemini Training\Web\MVCDEMO\Week8Assignment\obj\Debug\net10.0\compressed\wftcy15j1f-{0}-jd9uben2k1-jd9uben2k1.gz
+D:\Capgemini Training\Web\MVCDEMO\Week8Assignment\obj\Debug\net10.0\compressed\ykmm7lh1zi-{0}-khv3u5hwcm-khv3u5hwcm.gz
+D:\Capgemini Training\Web\MVCDEMO\Week8Assignment\obj\Debug\net10.0\compressed\iau4y7lwf8-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+D:\Capgemini Training\Web\MVCDEMO\Week8Assignment\obj\Debug\net10.0\compressed\frh7ifmnvt-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+D:\Capgemini Training\Web\MVCDEMO\Week8Assignment\obj\Debug\net10.0\compressed\hxyyy6gm0l-{0}-c2oey78nd0-c2oey78nd0.gz
+D:\Capgemini Training\Web\MVCDEMO\Week8Assignment\obj\Debug\net10.0\compressed\sc4tdj8fwa-{0}-tdbxkamptv-tdbxkamptv.gz
+D:\Capgemini Training\Web\MVCDEMO\Week8Assignment\obj\Debug\net10.0\compressed\zcrxr01x8h-{0}-j5mq2jizvt-j5mq2jizvt.gz
+D:\Capgemini Training\Web\MVCDEMO\Week8Assignment\obj\Debug\net10.0\compressed\slkywba3n7-{0}-06098lyss8-06098lyss8.gz
+D:\Capgemini Training\Web\MVCDEMO\Week8Assignment\obj\Debug\net10.0\compressed\k9xeru981e-{0}-nvvlpmu67g-nvvlpmu67g.gz
+D:\Capgemini Training\Web\MVCDEMO\Week8Assignment\obj\Debug\net10.0\compressed\b67kb3ztwh-{0}-s35ty4nyc5-s35ty4nyc5.gz
+D:\Capgemini Training\Web\MVCDEMO\Week8Assignment\obj\Debug\net10.0\compressed\9sn21jwwpq-{0}-pj5nd1wqec-pj5nd1wqec.gz
+D:\Capgemini Training\Web\MVCDEMO\Week8Assignment\obj\Debug\net10.0\compressed\y1uos6x9ac-{0}-46ein0sx1k-46ein0sx1k.gz
+D:\Capgemini Training\Web\MVCDEMO\Week8Assignment\obj\Debug\net10.0\compressed\ca2659im7e-{0}-v0zj4ognzu-v0zj4ognzu.gz
+D:\Capgemini Training\Web\MVCDEMO\Week8Assignment\obj\Debug\net10.0\compressed\80uv14z5mv-{0}-37tfw0ft22-37tfw0ft22.gz
+D:\Capgemini Training\Web\MVCDEMO\Week8Assignment\obj\Debug\net10.0\compressed\h0sdkvsk4w-{0}-hrwsygsryq-hrwsygsryq.gz
+D:\Capgemini Training\Web\MVCDEMO\Week8Assignment\obj\Debug\net10.0\compressed\amhohl256l-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+D:\Capgemini Training\Web\MVCDEMO\Week8Assignment\obj\Debug\net10.0\compressed\k7pchyibxx-{0}-ft3s53vfgj-ft3s53vfgj.gz
+D:\Capgemini Training\Web\MVCDEMO\Week8Assignment\obj\Debug\net10.0\compressed\z39pe61r1a-{0}-6cfz1n2cew-6cfz1n2cew.gz
+D:\Capgemini Training\Web\MVCDEMO\Week8Assignment\obj\Debug\net10.0\compressed\945l2fltp4-{0}-6pdc2jztkx-6pdc2jztkx.gz
+D:\Capgemini Training\Web\MVCDEMO\Week8Assignment\obj\Debug\net10.0\compressed\zm7hu9fera-{0}-493y06b0oq-493y06b0oq.gz
+D:\Capgemini Training\Web\MVCDEMO\Week8Assignment\obj\Debug\net10.0\compressed\q6q2izf6pw-{0}-iovd86k7lj-iovd86k7lj.gz
+D:\Capgemini Training\Web\MVCDEMO\Week8Assignment\obj\Debug\net10.0\compressed\wdg3bmvnaa-{0}-vr1egmr9el-vr1egmr9el.gz
+D:\Capgemini Training\Web\MVCDEMO\Week8Assignment\obj\Debug\net10.0\compressed\th3mvicfzs-{0}-kbrnm935zg-kbrnm935zg.gz
+D:\Capgemini Training\Web\MVCDEMO\Week8Assignment\obj\Debug\net10.0\compressed\mvnm5ggwbg-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+D:\Capgemini Training\Web\MVCDEMO\Week8Assignment\obj\Debug\net10.0\compressed\yrmmuryrlg-{0}-y7v9cxd14o-y7v9cxd14o.gz
+D:\Capgemini Training\Web\MVCDEMO\Week8Assignment\obj\Debug\net10.0\compressed\8lhumnzly9-{0}-notf2xhcfb-notf2xhcfb.gz
+D:\Capgemini Training\Web\MVCDEMO\Week8Assignment\obj\Debug\net10.0\compressed\e6lxtlsriq-{0}-h1s4sie4z3-h1s4sie4z3.gz
+D:\Capgemini Training\Web\MVCDEMO\Week8Assignment\obj\Debug\net10.0\compressed\zthk8is5uq-{0}-63fj8s7r0e-63fj8s7r0e.gz
+D:\Capgemini Training\Web\MVCDEMO\Week8Assignment\obj\Debug\net10.0\compressed\dzd7s55oy7-{0}-0j3bgjxly4-0j3bgjxly4.gz
+D:\Capgemini Training\Web\MVCDEMO\Week8Assignment\obj\Debug\net10.0\compressed\iy49paj6jk-{0}-47otxtyo56-47otxtyo56.gz
+D:\Capgemini Training\Web\MVCDEMO\Week8Assignment\obj\Debug\net10.0\compressed\z3tnvblxim-{0}-4v8eqarkd7-4v8eqarkd7.gz
+D:\Capgemini Training\Web\MVCDEMO\Week8Assignment\obj\Debug\net10.0\compressed\wotlq458sb-{0}-356vix0kms-356vix0kms.gz
+D:\Capgemini Training\Web\MVCDEMO\Week8Assignment\obj\Debug\net10.0\compressed\rz4mb6n8h9-{0}-83jwlth58m-83jwlth58m.gz
+D:\Capgemini Training\Web\MVCDEMO\Week8Assignment\obj\Debug\net10.0\compressed\cwsuccvj9e-{0}-mrlpezrjn3-mrlpezrjn3.gz
+D:\Capgemini Training\Web\MVCDEMO\Week8Assignment\obj\Debug\net10.0\compressed\3xvusk96p3-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+D:\Capgemini Training\Web\MVCDEMO\Week8Assignment\obj\Debug\net10.0\compressed\uw8hfxo1km-{0}-ag7o75518u-ag7o75518u.gz
+D:\Capgemini Training\Web\MVCDEMO\Week8Assignment\obj\Debug\net10.0\compressed\bth9u1k8y1-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+D:\Capgemini Training\Web\MVCDEMO\Week8Assignment\obj\Debug\net10.0\compressed\mkwlz0fkuq-{0}-0i3buxo5is-0i3buxo5is.gz
+D:\Capgemini Training\Web\MVCDEMO\Week8Assignment\obj\Debug\net10.0\compressed\9ryyaje2nn-{0}-o1o13a6vjx-o1o13a6vjx.gz
+D:\Capgemini Training\Web\MVCDEMO\Week8Assignment\obj\Debug\net10.0\compressed\wx64c1nfm6-{0}-ttgo8qnofa-ttgo8qnofa.gz
+D:\Capgemini Training\Web\MVCDEMO\Week8Assignment\obj\Debug\net10.0\compressed\yehuno1hzv-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+D:\Capgemini Training\Web\MVCDEMO\Week8Assignment\obj\Debug\net10.0\compressed\hdhvxqkxpt-{0}-muycvpuwrr-muycvpuwrr.gz
+D:\Capgemini Training\Web\MVCDEMO\Week8Assignment\obj\Debug\net10.0\compressed\8v22qkbzvl-{0}-87fc7y1x7t-87fc7y1x7t.gz
+D:\Capgemini Training\Web\MVCDEMO\Week8Assignment\obj\Debug\net10.0\compressed\r1yrsbrziq-{0}-mlv21k5csn-mlv21k5csn.gz
+D:\Capgemini Training\Web\MVCDEMO\Week8Assignment\obj\Debug\net10.0\compressed\r2jqfhj6v4-{0}-1qzu9vk78d-1qzu9vk78d.gz
+D:\Capgemini Training\Web\MVCDEMO\Week8Assignment\obj\Debug\net10.0\compressed\8wva6kmhu9-{0}-1qzu9vk78d-1qzu9vk78d.gz
+D:\Capgemini Training\Web\MVCDEMO\Week8Assignment\obj\Debug\net10.0\staticwebassets.build.json
+D:\Capgemini Training\Web\MVCDEMO\Week8Assignment\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\Capgemini Training\Web\MVCDEMO\Week8Assignment\obj\Debug\net10.0\staticwebassets.development.json
+D:\Capgemini Training\Web\MVCDEMO\Week8Assignment\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\Capgemini Training\Web\MVCDEMO\Week8Assignment\obj\Debug\net10.0\swae.build.ex.cache
+D:\Capgemini Training\Web\MVCDEMO\Week8Assignment\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+D:\Capgemini Training\Web\MVCDEMO\Week8Assignment\obj\Debug\net10.0\Week8Ass.A0030BAA.Up2Date
+D:\Capgemini Training\Web\MVCDEMO\Week8Assignment\obj\Debug\net10.0\Week8Assignment.dll
+D:\Capgemini Training\Web\MVCDEMO\Week8Assignment\obj\Debug\net10.0\refint\Week8Assignment.dll
+D:\Capgemini Training\Web\MVCDEMO\Week8Assignment\obj\Debug\net10.0\Week8Assignment.pdb
+D:\Capgemini Training\Web\MVCDEMO\Week8Assignment\obj\Debug\net10.0\Week8Assignment.genruntimeconfig.cache
+D:\Capgemini Training\Web\MVCDEMO\Week8Assignment\obj\Debug\net10.0\ref\Week8Assignment.dll
+C:\Users\91995\Desktop\Desk\TopBrains\Week8Assignment\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\91995\Desktop\Desk\TopBrains\Week8Assignment\bin\Debug\net10.0\appsettings.json
+C:\Users\91995\Desktop\Desk\TopBrains\Week8Assignment\bin\Debug\net10.0\Week8Assignment.staticwebassets.runtime.json
+C:\Users\91995\Desktop\Desk\TopBrains\Week8Assignment\bin\Debug\net10.0\Week8Assignment.staticwebassets.endpoints.json
+C:\Users\91995\Desktop\Desk\TopBrains\Week8Assignment\bin\Debug\net10.0\Week8Assignment.exe
+C:\Users\91995\Desktop\Desk\TopBrains\Week8Assignment\bin\Debug\net10.0\Week8Assignment.deps.json
+C:\Users\91995\Desktop\Desk\TopBrains\Week8Assignment\bin\Debug\net10.0\Week8Assignment.runtimeconfig.json
+C:\Users\91995\Desktop\Desk\TopBrains\Week8Assignment\bin\Debug\net10.0\Week8Assignment.dll
+C:\Users\91995\Desktop\Desk\TopBrains\Week8Assignment\bin\Debug\net10.0\Week8Assignment.pdb
+C:\Users\91995\Desktop\Desk\TopBrains\Week8Assignment\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\91995\Desktop\Desk\TopBrains\Week8Assignment\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\91995\Desktop\Desk\TopBrains\Week8Assignment\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\91995\Desktop\Desk\TopBrains\Week8Assignment\obj\Debug\net10.0\Week8Assignment.csproj.AssemblyReference.cache
+C:\Users\91995\Desktop\Desk\TopBrains\Week8Assignment\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\91995\Desktop\Desk\TopBrains\Week8Assignment\obj\Debug\net10.0\Week8Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91995\Desktop\Desk\TopBrains\Week8Assignment\obj\Debug\net10.0\Week8Assignment.AssemblyInfoInputs.cache
+C:\Users\91995\Desktop\Desk\TopBrains\Week8Assignment\obj\Debug\net10.0\Week8Assignment.AssemblyInfo.cs
+C:\Users\91995\Desktop\Desk\TopBrains\Week8Assignment\obj\Debug\net10.0\Week8Assignment.csproj.CoreCompileInputs.cache
+C:\Users\91995\Desktop\Desk\TopBrains\Week8Assignment\obj\Debug\net10.0\Week8Assignment.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\91995\Desktop\Desk\TopBrains\Week8Assignment\obj\Debug\net10.0\Week8Assignment.RazorAssemblyInfo.cache
+C:\Users\91995\Desktop\Desk\TopBrains\Week8Assignment\obj\Debug\net10.0\Week8Assignment.RazorAssemblyInfo.cs
+C:\Users\91995\Desktop\Desk\TopBrains\Week8Assignment\obj\Debug\net10.0\Week8Assignment.sourcelink.json
+C:\Users\91995\Desktop\Desk\TopBrains\Week8Assignment\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\91995\Desktop\Desk\TopBrains\Week8Assignment\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\91995\Desktop\Desk\TopBrains\Week8Assignment\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\91995\Desktop\Desk\TopBrains\Week8Assignment\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\91995\Desktop\Desk\TopBrains\Week8Assignment\obj\Debug\net10.0\scopedcss\bundle\Week8Assignment.styles.css
+C:\Users\91995\Desktop\Desk\TopBrains\Week8Assignment\obj\Debug\net10.0\scopedcss\projectbundle\Week8Assignment.bundle.scp.css
+C:\Users\91995\Desktop\Desk\TopBrains\Week8Assignment\obj\Debug\net10.0\compressed\exlh6xsyk6-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Users\91995\Desktop\Desk\TopBrains\Week8Assignment\obj\Debug\net10.0\compressed\wrx6mpjzzs-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\Users\91995\Desktop\Desk\TopBrains\Week8Assignment\obj\Debug\net10.0\compressed\hx781deyme-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Users\91995\Desktop\Desk\TopBrains\Week8Assignment\obj\Debug\net10.0\compressed\tuqhkw1s83-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\91995\Desktop\Desk\TopBrains\Week8Assignment\obj\Debug\net10.0\compressed\4qzvkd340u-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Users\91995\Desktop\Desk\TopBrains\Week8Assignment\obj\Debug\net10.0\compressed\a31khbdi93-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\91995\Desktop\Desk\TopBrains\Week8Assignment\obj\Debug\net10.0\compressed\h5y8kplmrz-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Users\91995\Desktop\Desk\TopBrains\Week8Assignment\obj\Debug\net10.0\compressed\rtffac3d1e-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\91995\Desktop\Desk\TopBrains\Week8Assignment\obj\Debug\net10.0\compressed\zz9g4gw2iy-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Users\91995\Desktop\Desk\TopBrains\Week8Assignment\obj\Debug\net10.0\compressed\jg1qx0tuy1-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\91995\Desktop\Desk\TopBrains\Week8Assignment\obj\Debug\net10.0\compressed\9zwgkzsjzk-{0}-ub07r2b239-ub07r2b239.gz
+C:\Users\91995\Desktop\Desk\TopBrains\Week8Assignment\obj\Debug\net10.0\compressed\icsipkdvk4-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\91995\Desktop\Desk\TopBrains\Week8Assignment\obj\Debug\net10.0\compressed\pcbdyi5pp1-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Users\91995\Desktop\Desk\TopBrains\Week8Assignment\obj\Debug\net10.0\compressed\awex4u1xuj-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\91995\Desktop\Desk\TopBrains\Week8Assignment\obj\Debug\net10.0\compressed\q9y07n53fu-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Users\91995\Desktop\Desk\TopBrains\Week8Assignment\obj\Debug\net10.0\compressed\04xlsad2hu-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\91995\Desktop\Desk\TopBrains\Week8Assignment\obj\Debug\net10.0\compressed\yl5lwznw6k-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Users\91995\Desktop\Desk\TopBrains\Week8Assignment\obj\Debug\net10.0\compressed\wftcy15j1f-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\91995\Desktop\Desk\TopBrains\Week8Assignment\obj\Debug\net10.0\compressed\ykmm7lh1zi-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Users\91995\Desktop\Desk\TopBrains\Week8Assignment\obj\Debug\net10.0\compressed\iau4y7lwf8-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\91995\Desktop\Desk\TopBrains\Week8Assignment\obj\Debug\net10.0\compressed\frh7ifmnvt-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Users\91995\Desktop\Desk\TopBrains\Week8Assignment\obj\Debug\net10.0\compressed\hxyyy6gm0l-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\91995\Desktop\Desk\TopBrains\Week8Assignment\obj\Debug\net10.0\compressed\sc4tdj8fwa-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Users\91995\Desktop\Desk\TopBrains\Week8Assignment\obj\Debug\net10.0\compressed\zcrxr01x8h-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\91995\Desktop\Desk\TopBrains\Week8Assignment\obj\Debug\net10.0\compressed\slkywba3n7-{0}-06098lyss8-06098lyss8.gz
+C:\Users\91995\Desktop\Desk\TopBrains\Week8Assignment\obj\Debug\net10.0\compressed\k9xeru981e-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\91995\Desktop\Desk\TopBrains\Week8Assignment\obj\Debug\net10.0\compressed\b67kb3ztwh-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Users\91995\Desktop\Desk\TopBrains\Week8Assignment\obj\Debug\net10.0\compressed\9sn21jwwpq-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\91995\Desktop\Desk\TopBrains\Week8Assignment\obj\Debug\net10.0\compressed\y1uos6x9ac-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Users\91995\Desktop\Desk\TopBrains\Week8Assignment\obj\Debug\net10.0\compressed\ca2659im7e-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\91995\Desktop\Desk\TopBrains\Week8Assignment\obj\Debug\net10.0\compressed\80uv14z5mv-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Users\91995\Desktop\Desk\TopBrains\Week8Assignment\obj\Debug\net10.0\compressed\h0sdkvsk4w-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\91995\Desktop\Desk\TopBrains\Week8Assignment\obj\Debug\net10.0\compressed\amhohl256l-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Users\91995\Desktop\Desk\TopBrains\Week8Assignment\obj\Debug\net10.0\compressed\k7pchyibxx-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\91995\Desktop\Desk\TopBrains\Week8Assignment\obj\Debug\net10.0\compressed\z39pe61r1a-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Users\91995\Desktop\Desk\TopBrains\Week8Assignment\obj\Debug\net10.0\compressed\945l2fltp4-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\91995\Desktop\Desk\TopBrains\Week8Assignment\obj\Debug\net10.0\compressed\zm7hu9fera-{0}-493y06b0oq-493y06b0oq.gz
+C:\Users\91995\Desktop\Desk\TopBrains\Week8Assignment\obj\Debug\net10.0\compressed\q6q2izf6pw-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\91995\Desktop\Desk\TopBrains\Week8Assignment\obj\Debug\net10.0\compressed\wdg3bmvnaa-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Users\91995\Desktop\Desk\TopBrains\Week8Assignment\obj\Debug\net10.0\compressed\th3mvicfzs-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\91995\Desktop\Desk\TopBrains\Week8Assignment\obj\Debug\net10.0\compressed\mvnm5ggwbg-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Users\91995\Desktop\Desk\TopBrains\Week8Assignment\obj\Debug\net10.0\compressed\yrmmuryrlg-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\91995\Desktop\Desk\TopBrains\Week8Assignment\obj\Debug\net10.0\compressed\8lhumnzly9-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Users\91995\Desktop\Desk\TopBrains\Week8Assignment\obj\Debug\net10.0\compressed\e6lxtlsriq-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\91995\Desktop\Desk\TopBrains\Week8Assignment\obj\Debug\net10.0\compressed\zthk8is5uq-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Users\91995\Desktop\Desk\TopBrains\Week8Assignment\obj\Debug\net10.0\compressed\dzd7s55oy7-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\91995\Desktop\Desk\TopBrains\Week8Assignment\obj\Debug\net10.0\compressed\iy49paj6jk-{0}-47otxtyo56-47otxtyo56.gz
+C:\Users\91995\Desktop\Desk\TopBrains\Week8Assignment\obj\Debug\net10.0\compressed\z3tnvblxim-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\Users\91995\Desktop\Desk\TopBrains\Week8Assignment\obj\Debug\net10.0\compressed\wotlq458sb-{0}-356vix0kms-356vix0kms.gz
+C:\Users\91995\Desktop\Desk\TopBrains\Week8Assignment\obj\Debug\net10.0\compressed\rz4mb6n8h9-{0}-83jwlth58m-83jwlth58m.gz
+C:\Users\91995\Desktop\Desk\TopBrains\Week8Assignment\obj\Debug\net10.0\compressed\cwsuccvj9e-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\Users\91995\Desktop\Desk\TopBrains\Week8Assignment\obj\Debug\net10.0\compressed\3xvusk96p3-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\Users\91995\Desktop\Desk\TopBrains\Week8Assignment\obj\Debug\net10.0\compressed\uw8hfxo1km-{0}-ag7o75518u-ag7o75518u.gz
+C:\Users\91995\Desktop\Desk\TopBrains\Week8Assignment\obj\Debug\net10.0\compressed\bth9u1k8y1-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Users\91995\Desktop\Desk\TopBrains\Week8Assignment\obj\Debug\net10.0\compressed\mkwlz0fkuq-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\Users\91995\Desktop\Desk\TopBrains\Week8Assignment\obj\Debug\net10.0\compressed\9ryyaje2nn-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\Users\91995\Desktop\Desk\TopBrains\Week8Assignment\obj\Debug\net10.0\compressed\wx64c1nfm6-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Users\91995\Desktop\Desk\TopBrains\Week8Assignment\obj\Debug\net10.0\compressed\yehuno1hzv-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\Users\91995\Desktop\Desk\TopBrains\Week8Assignment\obj\Debug\net10.0\compressed\hdhvxqkxpt-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\Users\91995\Desktop\Desk\TopBrains\Week8Assignment\obj\Debug\net10.0\compressed\8v22qkbzvl-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Users\91995\Desktop\Desk\TopBrains\Week8Assignment\obj\Debug\net10.0\compressed\r1yrsbrziq-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Users\91995\Desktop\Desk\TopBrains\Week8Assignment\obj\Debug\net10.0\compressed\r2jqfhj6v4-{0}-1qzu9vk78d-1qzu9vk78d.gz
+C:\Users\91995\Desktop\Desk\TopBrains\Week8Assignment\obj\Debug\net10.0\compressed\8wva6kmhu9-{0}-1qzu9vk78d-1qzu9vk78d.gz
+C:\Users\91995\Desktop\Desk\TopBrains\Week8Assignment\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\91995\Desktop\Desk\TopBrains\Week8Assignment\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\91995\Desktop\Desk\TopBrains\Week8Assignment\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\91995\Desktop\Desk\TopBrains\Week8Assignment\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\91995\Desktop\Desk\TopBrains\Week8Assignment\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\91995\Desktop\Desk\TopBrains\Week8Assignment\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\91995\Desktop\Desk\TopBrains\Week8Assignment\obj\Debug\net10.0\Week8Ass.A0030BAA.Up2Date
+C:\Users\91995\Desktop\Desk\TopBrains\Week8Assignment\obj\Debug\net10.0\Week8Assignment.dll
+C:\Users\91995\Desktop\Desk\TopBrains\Week8Assignment\obj\Debug\net10.0\refint\Week8Assignment.dll
+C:\Users\91995\Desktop\Desk\TopBrains\Week8Assignment\obj\Debug\net10.0\Week8Assignment.pdb
+C:\Users\91995\Desktop\Desk\TopBrains\Week8Assignment\obj\Debug\net10.0\Week8Assignment.genruntimeconfig.cache
+C:\Users\91995\Desktop\Desk\TopBrains\Week8Assignment\obj\Debug\net10.0\ref\Week8Assignment.dll
+C:\Users\91995\Desktop\Desk\TopBrains\Week8Assignment\obj\Debug\net10.0\compressed\me9nbnifp5-{0}-vh5qbw7y73-vh5qbw7y73.gz

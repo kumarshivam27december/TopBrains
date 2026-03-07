@@ -1,0 +1,18 @@
+@model Book
+@{
+    ViewData["Title"] = Model.Title;
+}
+
+<h1>@Model.Title</h1>
+<dl>
+    <dt>Book Id</dt>
+    <dd>@Model.BookId</dd>
+    <dt>Author</dt>
+    <dd>@Model.Author</dd>
+    <dt>Price</dt>
+    <dd>@Model.Price.ToString("C")</dd>
+</dl>
+<p>
+    <a asp-action="List" class="button-secondary">Back to List</a>
+    <a asp-action="Delete" asp-route-id="@Model.BookId" class="button-danger">Delete</a>
+</p>
