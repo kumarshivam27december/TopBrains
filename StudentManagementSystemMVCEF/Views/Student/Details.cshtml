@@ -1,0 +1,33 @@
+@model StudentManagementSystemMVCEF.Models.Student
+
+@{
+    ViewData["Title"] = "Student Details";
+}
+
+<h2>Student Details</h2>
+
+<div>
+
+    <p>
+        <strong>ID :</strong> @Model.StudentId
+    </p>
+
+    <p>
+        <strong>Name :</strong> @Model.Name
+    </p>
+
+    <p>
+        <strong>Age :</strong> @Model.Age
+    </p>
+
+    <p>
+        <strong>Email :</strong> @Model.Email
+    </p>
+
+    <p>
+        <strong>Department :</strong> @(Model.Department?.DepartmentName ?? Model.DepartmentId.ToString())
+    </p>
+
+</div>
+
+<a asp-action="Index" class="btn btn-primary">Back</a>

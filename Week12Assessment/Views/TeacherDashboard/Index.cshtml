@@ -1,0 +1,49 @@
+@{
+    ViewData["Title"] = "Teacher Dashboard";
+}
+
+<div class="container mt-4">
+    <div class="row mb-4">
+        <div class="col-12 text-center text-primary">
+            <h1>Teacher Dashboard</h1>
+            <p class="lead">Manage the Student Management System from here</p>
+        </div>
+    </div>
+
+    <!-- Quick Stats Cards -->
+    <div class="row g-4 mb-5 text-center">
+        <div class="col-md-4">
+            <div class="card bg-info text-white shadow h-100">
+                <div class="card-body">
+                    <h5 class="card-title">Total Departments</h5>
+                    <h2 class="display-4">@ViewBag.DepartmentCount</h2>
+                </div>
+                <div class="card-footer bg-transparent border-0 pb-3">
+                    <a asp-controller="Department" asp-action="Index" class="btn btn-light btn-sm fw-bold text-info">Manage Departments</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card bg-success text-white shadow h-100">
+                <div class="card-body">
+                    <h5 class="card-title">Total Courses</h5>
+                    <h2 class="display-4">@ViewBag.CourseCount</h2>
+                </div>
+                <div class="card-footer bg-transparent border-0 pb-3">
+                    <a asp-controller="Course" asp-action="Index" class="btn btn-light btn-sm fw-bold text-success">Manage Courses</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card bg-primary text-white shadow h-100">
+                <div class="card-body">
+                    <h5 class="card-title">Total Students</h5>
+                    <h2 class="display-4">@ViewBag.StudentCount</h2>
+                </div>
+                <div class="card-footer bg-transparent border-0 pb-3">
+                    <a asp-controller="Student" asp-action="Index" class="btn btn-light btn-sm fw-bold text-primary">Manage Students</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

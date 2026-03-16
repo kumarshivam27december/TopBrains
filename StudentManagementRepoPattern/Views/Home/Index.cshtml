@@ -1,0 +1,71 @@
+@{
+    ViewData["Title"] = "Dashboard";
+}
+
+@model DashboardVm
+
+<div class="mb-4">
+    <h1 class="h3 mb-1">Company Training Institute</h1>
+    <div class="text-muted">Student Management System </div>
+</div>
+
+<div class="row g-3 mb-4">
+    <div class="col-md-4">
+        <div class="card shadow-sm">
+            <div class="card-body">
+                <div class="d-flex justify-content-between align-items-center">
+                    <div>
+                        <div class="text-muted">Total no of  Students</div>
+                        <div class="display-6">@Model.TotalStudents</div>
+                    </div>
+                    <span class="badge bg-primary">Students</span>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div class="card shadow-sm">
+            <div class="card-body">
+                <div class="d-flex justify-content-between align-items-center">
+                    <div>
+                        <div class="text-muted">Total no of Departments</div>
+                        <div class="display-6">@Model.TotalDepartments</div>
+                    </div>
+                    <span class="badge bg-success">Departments</span>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div class="card shadow-sm">
+            <div class="card-body">
+                <div class="d-flex justify-content-between align-items-center">
+                    <div>
+                        <div class="text-muted">Total no of  Courses</div>
+                        <div class="display-6">@Model.TotalCourses</div>
+                    </div>
+                    <span class="badge bg-warning text-dark">Courses</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="card">
+    <div class="card-body">
+        <div class="row g-2">
+            <div class="col-md-3">
+                <a class="btn btn-primary w-100" asp-controller="Student" asp-action="Create">Register Student</a>
+            </div>
+            <div class="col-md-3">
+                <a class="btn btn-outline-primary w-100" asp-controller="Student" asp-action="Index">Student List</a>
+            </div>
+            <div class="col-md-3">
+                <a class="btn btn-outline-success w-100" asp-controller="Department" asp-action="Index">Manage Departments</a>
+            </div>
+            <div class="col-md-3">
+                <a class="btn btn-outline-warning w-100" asp-controller="Course" asp-action="Index">Manage Courses</a>
+            </div>
+        </div>
+    </div>
+</div>

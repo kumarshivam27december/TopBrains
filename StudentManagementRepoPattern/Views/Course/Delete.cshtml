@@ -1,0 +1,23 @@
+@model Course
+@{
+    ViewData["Title"] = "Delete Course";
+}
+
+<div class="d-flex justify-content-between align-items-end mb-3">
+    <div>
+        <h1 class="h3 mb-1">Delete Course</h1>
+        <div class="text-muted">This action cannot be undone</div>
+    </div>
+    <a class="btn btn-outline-secondary" asp-action="Index">Back</a>
+</div>
+
+<div class="alert alert-warning">
+    Are you sure you want to delete <strong>@Model.CourseName</strong>?
+</div>
+
+<form asp-action="Delete" method="post">
+    <input type="hidden" asp-for="CourseId" />
+    <button type="submit" class="btn btn-danger">Delete</button>
+    <a class="btn btn-outline-secondary" asp-action="Index">Cancel</a>
+</form>
+

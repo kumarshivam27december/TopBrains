@@ -1,0 +1,79 @@
+@model StudentManagementSystem.ViewModels.StudentProfileViewModel
+
+@{
+    ViewData["Title"] = "Student Dashboard";
+}
+
+<div class="container mt-4">
+    <div class="row mb-4">
+        <div class="col-12 text-center text-success">
+            <h1>Student Dashboard</h1>
+            <p class="lead">Welcome, @Model.StudentName</p>
+        </div>
+    </div>
+
+    @if (TempData["SuccessMessage"] != null)
+    {
+        <div class="alert alert-success alert-dismissible fade show" role="alert">
+            @TempData["SuccessMessage"]
+            <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+        </div>
+    }
+
+    <div class="row g-4">
+        <!-- Academic Info -->
+        <div class="col-md-6">
+            <div class="card shadow h-100 border-primary">
+                <div class="card-header bg-primary text-white">
+                    <h4 class="mb-0">Academic Information</h4>
+                </div>
+                <div class="card-body">
+                    <dl class="row mb-0">
+                        <dt class="col-sm-4 text-muted">Department</dt>
+                        <dd class="col-sm-8 fw-bold">@Model.DepartmentName</dd>
+                        
+                        <dt class="col-sm-4 text-muted">Course</dt>
+                        <dd class="col-sm-8 fw-bold">@Model.CourseName</dd>
+                        
+                        <dt class="col-sm-4 text-muted">Email</dt>
+                        <dd class="col-sm-8">@Model.Email</dd>
+                    </dl>
+                </div>
+            </div>
+        </div>
+
+        <!-- Edit Profile -->
+        <div class="col-md-6">
+            <div class="card shadow h-100 border-success">
+                <div class="card-header bg-success text-white">
+                    <h4 class="mb-0">Update Profile</h4>
+                </div>
+                <div class="card-body">
+                    <form asp-action="UpdateProfile" method="post">
+                        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                        
+                        <div class="mb-3">
+                            <label asp-for="PhoneNumber" class="form-label text-muted"></label>
+                            <input asp-for="PhoneNumber" class="form-control border-success" />
+                            <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+                        </div>
+                        
+                        <div class="mb-3">
+                            <label asp-for="Address" class="form-label text-muted"></label>
+                            <textarea asp-for="Address" class="form-control border-success" rows="3"></textarea>
+                            <span asp-validation-for="Address" class="text-danger"></span>
+                        </div>
+                        
+                        <div class="d-grid gap-2">
+                            <button type="submit" class="btn btn-success">Save Changes</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

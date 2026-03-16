@@ -1,0 +1,313 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\91995\\Desktop\\Desk\\mvc\\StudentManagementSystemMVCEF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB4E24C-D903-8F7C-7EEB-7F67E3F55E7A}|StudentManagementSystemMVCEF.csproj|c:\\users\\91995\\desktop\\desk\\mvc\\studentmanagementsystemmvcef\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DB4E24C-D903-8F7C-7EEB-7F67E3F55E7A}|StudentManagementSystemMVCEF.csproj|solutionrelative:views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB4E24C-D903-8F7C-7EEB-7F67E3F55E7A}|StudentManagementSystemMVCEF.csproj|c:\\users\\91995\\desktop\\desk\\mvc\\studentmanagementsystemmvcef\\views\\student\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DB4E24C-D903-8F7C-7EEB-7F67E3F55E7A}|StudentManagementSystemMVCEF.csproj|solutionrelative:views\\student\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB4E24C-D903-8F7C-7EEB-7F67E3F55E7A}|StudentManagementSystemMVCEF.csproj|c:\\users\\91995\\desktop\\desk\\mvc\\studentmanagementsystemmvcef\\views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DB4E24C-D903-8F7C-7EEB-7F67E3F55E7A}|StudentManagementSystemMVCEF.csproj|solutionrelative:views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB4E24C-D903-8F7C-7EEB-7F67E3F55E7A}|StudentManagementSystemMVCEF.csproj|c:\\users\\91995\\desktop\\desk\\mvc\\studentmanagementsystemmvcef\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DB4E24C-D903-8F7C-7EEB-7F67E3F55E7A}|StudentManagementSystemMVCEF.csproj|solutionrelative:views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB4E24C-D903-8F7C-7EEB-7F67E3F55E7A}|StudentManagementSystemMVCEF.csproj|c:\\users\\91995\\desktop\\desk\\mvc\\studentmanagementsystemmvcef\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DB4E24C-D903-8F7C-7EEB-7F67E3F55E7A}|StudentManagementSystemMVCEF.csproj|solutionrelative:views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB4E24C-D903-8F7C-7EEB-7F67E3F55E7A}|StudentManagementSystemMVCEF.csproj|c:\\users\\91995\\desktop\\desk\\mvc\\studentmanagementsystemmvcef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DB4E24C-D903-8F7C-7EEB-7F67E3F55E7A}|StudentManagementSystemMVCEF.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB4E24C-D903-8F7C-7EEB-7F67E3F55E7A}|StudentManagementSystemMVCEF.csproj|c:\\users\\91995\\desktop\\desk\\mvc\\studentmanagementsystemmvcef\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DB4E24C-D903-8F7C-7EEB-7F67E3F55E7A}|StudentManagementSystemMVCEF.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB4E24C-D903-8F7C-7EEB-7F67E3F55E7A}|StudentManagementSystemMVCEF.csproj|c:\\users\\91995\\desktop\\desk\\mvc\\studentmanagementsystemmvcef\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DB4E24C-D903-8F7C-7EEB-7F67E3F55E7A}|StudentManagementSystemMVCEF.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB4E24C-D903-8F7C-7EEB-7F67E3F55E7A}|StudentManagementSystemMVCEF.csproj|c:\\users\\91995\\desktop\\desk\\mvc\\studentmanagementsystemmvcef\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DB4E24C-D903-8F7C-7EEB-7F67E3F55E7A}|StudentManagementSystemMVCEF.csproj|solutionrelative:models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB4E24C-D903-8F7C-7EEB-7F67E3F55E7A}|StudentManagementSystemMVCEF.csproj|c:\\users\\91995\\desktop\\desk\\mvc\\studentmanagementsystemmvcef\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DB4E24C-D903-8F7C-7EEB-7F67E3F55E7A}|StudentManagementSystemMVCEF.csproj|solutionrelative:models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB4E24C-D903-8F7C-7EEB-7F67E3F55E7A}|StudentManagementSystemMVCEF.csproj|c:\\users\\91995\\desktop\\desk\\mvc\\studentmanagementsystemmvcef\\context\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DB4E24C-D903-8F7C-7EEB-7F67E3F55E7A}|StudentManagementSystemMVCEF.csproj|solutionrelative:context\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB4E24C-D903-8F7C-7EEB-7F67E3F55E7A}|StudentManagementSystemMVCEF.csproj|c:\\users\\91995\\desktop\\desk\\mvc\\studentmanagementsystemmvcef\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DB4E24C-D903-8F7C-7EEB-7F67E3F55E7A}|StudentManagementSystemMVCEF.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB4E24C-D903-8F7C-7EEB-7F67E3F55E7A}|StudentManagementSystemMVCEF.csproj|c:\\users\\91995\\desktop\\desk\\mvc\\studentmanagementsystemmvcef\\migrations\\studentdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DB4E24C-D903-8F7C-7EEB-7F67E3F55E7A}|StudentManagementSystemMVCEF.csproj|solutionrelative:migrations\\studentdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB4E24C-D903-8F7C-7EEB-7F67E3F55E7A}|StudentManagementSystemMVCEF.csproj|c:\\users\\91995\\desktop\\desk\\mvc\\studentmanagementsystemmvcef\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7DB4E24C-D903-8F7C-7EEB-7F67E3F55E7A}|StudentManagementSystemMVCEF.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB4E24C-D903-8F7C-7EEB-7F67E3F55E7A}|StudentManagementSystemMVCEF.csproj|c:\\users\\91995\\desktop\\desk\\mvc\\studentmanagementsystemmvcef\\migrations\\20260311040415_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DB4E24C-D903-8F7C-7EEB-7F67E3F55E7A}|StudentManagementSystemMVCEF.csproj|solutionrelative:migrations\\20260311040415_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB4E24C-D903-8F7C-7EEB-7F67E3F55E7A}|StudentManagementSystemMVCEF.csproj|c:\\users\\91995\\desktop\\desk\\mvc\\studentmanagementsystemmvcef\\migrations\\20260311041112_seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DB4E24C-D903-8F7C-7EEB-7F67E3F55E7A}|StudentManagementSystemMVCEF.csproj|solutionrelative:migrations\\20260311041112_seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB4E24C-D903-8F7C-7EEB-7F67E3F55E7A}|StudentManagementSystemMVCEF.csproj|c:\\users\\91995\\desktop\\desk\\mvc\\studentmanagementsystemmvcef\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DB4E24C-D903-8F7C-7EEB-7F67E3F55E7A}|StudentManagementSystemMVCEF.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB4E24C-D903-8F7C-7EEB-7F67E3F55E7A}|StudentManagementSystemMVCEF.csproj|c:\\users\\91995\\desktop\\desk\\mvc\\studentmanagementsystemmvcef\\migrations\\20260311044949_modelfixing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DB4E24C-D903-8F7C-7EEB-7F67E3F55E7A}|StudentManagementSystemMVCEF.csproj|solutionrelative:migrations\\20260311044949_modelfixing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\91995\\Desktop\\Desk\\mvc\\StudentManagementSystemMVCEF\\Views\\Student\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Student\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\91995\\Desktop\\Desk\\mvc\\StudentManagementSystemMVCEF\\Views\\Student\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Student\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-11T11:34:30.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\91995\\Desktop\\Desk\\mvc\\StudentManagementSystemMVCEF\\Views\\Student\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Student\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\91995\\Desktop\\Desk\\mvc\\StudentManagementSystemMVCEF\\Views\\Student\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Student\\Edit.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-11T10:42:16.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\91995\\Desktop\\Desk\\mvc\\StudentManagementSystemMVCEF\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\91995\\Desktop\\Desk\\mvc\\StudentManagementSystemMVCEF\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwCEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T10:00:51.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\91995\\Desktop\\Desk\\mvc\\StudentManagementSystemMVCEF\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "Models\\Course.cs",
+              "ToolTip": "C:\\Users\\91995\\Desktop\\Desk\\mvc\\StudentManagementSystemMVCEF\\Models\\Course.cs",
+              "RelativeToolTip": "Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T09:51:02.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\91995\\Desktop\\Desk\\mvc\\StudentManagementSystemMVCEF\\Views\\Student\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Student\\Create.cshtml",
+              "ToolTip": "C:\\Users\\91995\\Desktop\\Desk\\mvc\\StudentManagementSystemMVCEF\\Views\\Student\\Create.cshtml*",
+              "RelativeToolTip": "Views\\Student\\Create.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-09T10:55:23.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\91995\\Desktop\\Desk\\mvc\\StudentManagementSystemMVCEF\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "C:\\Users\\91995\\Desktop\\Desk\\mvc\\StudentManagementSystemMVCEF\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAkwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T09:38:11.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\91995\\Desktop\\Desk\\mvc\\StudentManagementSystemMVCEF\\Views\\Student\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Student\\Details.cshtml",
+              "ToolTip": "C:\\Users\\91995\\Desktop\\Desk\\mvc\\StudentManagementSystemMVCEF\\Views\\Student\\Details.cshtml",
+              "RelativeToolTip": "Views\\Student\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-09T10:56:03.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\91995\\Desktop\\Desk\\mvc\\StudentManagementSystemMVCEF\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Student\\Index.cshtml",
+              "ToolTip": "C:\\Users\\91995\\Desktop\\Desk\\mvc\\StudentManagementSystemMVCEF\\Views\\Student\\Index.cshtml*",
+              "RelativeToolTip": "Views\\Student\\Index.cshtml*",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAC4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-09T10:10:15.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\91995\\Desktop\\Desk\\mvc\\StudentManagementSystemMVCEF\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\91995\\Desktop\\Desk\\mvc\\StudentManagementSystemMVCEF\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Controllers\\StudentController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAADwvyIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T10:03:07.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\91995\\Desktop\\Desk\\mvc\\StudentManagementSystemMVCEF\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\91995\\Desktop\\Desk\\mvc\\StudentManagementSystemMVCEF\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T10:09:30.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StudentDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\91995\\Desktop\\Desk\\mvc\\StudentManagementSystemMVCEF\\Context\\StudentDBContext.cs",
+              "RelativeDocumentMoniker": "Context\\StudentDBContext.cs",
+              "ToolTip": "C:\\Users\\91995\\Desktop\\Desk\\mvc\\StudentManagementSystemMVCEF\\Context\\StudentDBContext.cs",
+              "RelativeToolTip": "Context\\StudentDBContext.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAADwvygAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T09:56:08.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\91995\\Desktop\\Desk\\mvc\\StudentManagementSystemMVCEF\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "Models\\Department.cs",
+              "ToolTip": "C:\\Users\\91995\\Desktop\\Desk\\mvc\\StudentManagementSystemMVCEF\\Models\\Department.cs",
+              "RelativeToolTip": "Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T09:45:21.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StudentDBContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\91995\\Desktop\\Desk\\mvc\\StudentManagementSystemMVCEF\\Migrations\\StudentDBContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\StudentDBContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\91995\\Desktop\\Desk\\mvc\\StudentManagementSystemMVCEF\\Migrations\\StudentDBContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\StudentDBContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T05:06:36.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20260311044949_modelfixing.cs",
+              "DocumentMoniker": "C:\\Users\\91995\\Desktop\\Desk\\mvc\\StudentManagementSystemMVCEF\\Migrations\\20260311044949_modelfixing.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260311044949_modelfixing.cs",
+              "ToolTip": "C:\\Users\\91995\\Desktop\\Desk\\mvc\\StudentManagementSystemMVCEF\\Migrations\\20260311044949_modelfixing.cs",
+              "RelativeToolTip": "Migrations\\20260311044949_modelfixing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T04:49:49.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\91995\\Desktop\\Desk\\mvc\\StudentManagementSystemMVCEF\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\91995\\Desktop\\Desk\\mvc\\StudentManagementSystemMVCEF\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-09T10:01:07.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20260311040415_initialcreate.cs",
+              "DocumentMoniker": "C:\\Users\\91995\\Desktop\\Desk\\mvc\\StudentManagementSystemMVCEF\\Migrations\\20260311040415_initialcreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260311040415_initialcreate.cs",
+              "ToolTip": "C:\\Users\\91995\\Desktop\\Desk\\mvc\\StudentManagementSystemMVCEF\\Migrations\\20260311040415_initialcreate.cs",
+              "RelativeToolTip": "Migrations\\20260311040415_initialcreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T04:04:15.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20260311041112_seeddata.cs",
+              "DocumentMoniker": "C:\\Users\\91995\\Desktop\\Desk\\mvc\\StudentManagementSystemMVCEF\\Migrations\\20260311041112_seeddata.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260311041112_seeddata.cs",
+              "ToolTip": "C:\\Users\\91995\\Desktop\\Desk\\mvc\\StudentManagementSystemMVCEF\\Migrations\\20260311041112_seeddata.cs",
+              "RelativeToolTip": "Migrations\\20260311041112_seeddata.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T04:11:12.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\91995\\Desktop\\Desk\\mvc\\StudentManagementSystemMVCEF\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\91995\\Desktop\\Desk\\mvc\\StudentManagementSystemMVCEF\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-09T10:56:18.69Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

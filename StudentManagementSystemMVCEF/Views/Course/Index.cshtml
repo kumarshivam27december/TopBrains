@@ -1,0 +1,32 @@
+@model IEnumerable<StudentManagementSystemMVCEF.Models.Course>
+
+@{
+    ViewData["Title"] = "Courses";
+}
+
+<h2>Courses</h2>
+
+<a asp-action="Create" class="btn btn-primary">Add Course</a>
+
+<table class="table table-bordered mt-3">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Duration</th>
+            <th>Department</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var c in Model)
+        {
+            <tr>
+                <td>@c.CourseId</td>
+                <td>@c.CourseName</td>
+                <td>@c.Duration</td>
+                <td>@(c.Department?.DepartmentName ?? c.DepartmentId.ToString())</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
