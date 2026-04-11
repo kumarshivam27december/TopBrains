@@ -1,0 +1,24 @@
+body{
+    background:#e9ecef;
+}
+
+.calculator{
+    max-width:400px;
+    margin:80px auto;
+    padding:30px;
+    border-radius:15px;
+    background:white;
+    box-shadow:0 5px 15px rgba(0,0,0,0.2);
+}
+
+.result-box{
+    background:#dee2e6;
+    padding:15px;
+    border-radius:10px;
+    text-align:center;
+    margin-top:20px;
+}
+
+button{
+    width:100%;
+}
